@@ -1,0 +1,17 @@
+.data {
+    font-size: 20px;
+}
+.logoutbutton {
+    background-color: #000000;
+    border-radius: 20px;
+    padding: 13px 40px;
+    font-size: 15px;
+    color: #fff;
+    cursor: pointer;
+}
+.privatContainer {
+    display: flex;
+    justify-content: space-evenly;
+    height: 40vh;
+    align-items: center;
+}
